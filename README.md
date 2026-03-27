@@ -63,6 +63,6 @@ This project builds an end-to-end Predictive Maintenance system to estimate the 
 * Complex degradation → captured using domain knowledge
 
 ## 🔮 Future Improvements
-Implement LSTM/RNN models for sequence learning
-Deploy model on real-time IoT/edge devices
-Enhance generalization across different machine types
+* Implement LSTM/RNN models for sequence learning
+* Deploy model on real-time IoT/edge devices
+* Enhance generalization across different machine types
